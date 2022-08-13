@@ -20,7 +20,7 @@ public abstract class WrittenItem extends Item {
 
 	@Override
 	public String toString() {
-		return "WrittenItem [author=" + author + "]";
+		return "WrittenItem [author=" + author + ", toString()=" + super.toString() + "]";
 	}
 	
 }
