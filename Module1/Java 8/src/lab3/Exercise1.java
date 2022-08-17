@@ -1,7 +1,5 @@
 package lab3;
 
-import java.util.Arrays;
-
 public class Exercise1 {
 
 	public static int getSecondSmallest(int[] arr) {
