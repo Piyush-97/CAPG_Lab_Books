@@ -8,7 +8,6 @@ public class Employee {
 	private String insuranceSchema;
 	
 	public Employee() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public Employee(int empId, String name, int salary, String designation, String insuranceSchema) {
